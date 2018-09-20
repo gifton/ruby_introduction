@@ -1,5 +1,6 @@
 # ruby_introduction
-An introduction of ruby
+Culture Foundry Ruby on rails on boarding. 
+Please update with missing information.
 # Downloads
 
 * [Download ruby](https://www.ruby-lang.org/en/documentation/installation/)
@@ -13,7 +14,7 @@ An introduction of ruby
 * [rendering and layouts](https://guides.rubyonrails.org/layouts_and_rendering.html)
 * [forms](https://guides.rubyonrails.org/form_helpers.html)
 
-# Structre breakdown
+# Structure breakdown
 
 ### Structure
 
