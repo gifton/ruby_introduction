@@ -12,3 +12,12 @@ An introduction of ruby
 * [rails pipeline walkthrough](https://guides.rubyonrails.org/asset_pipeline.html)
 * [rendering and layouts](https://guides.rubyonrails.org/layouts_and_rendering.html)
 * [forms](https://guides.rubyonrails.org/form_helpers.html)
+
+# Structre breakdown
+
+### Structure
+
+| Folder               | Description         |
+| ----------------- | ------------------- |
+| app/                 | Contains the controllers, models, views, helpers, mailers, channels, jobs and assets for your application. You’ll focus on this folder for the remainder of this guide.
+
