@@ -1,5 +1,7 @@
 # ruby_introduction
-Culture Foundry Ruby on rails on boarding. 
+Culture Foundry Ruby on rails on boarding.
+
+ 
 Please update with missing information.
 # Downloads
 
